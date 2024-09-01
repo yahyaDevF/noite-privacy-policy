@@ -3,11 +3,11 @@
 
 **Notie App Privacy Policy**
 
-*Last Updated: [Date]*
+*Last Updated: [1.09.2024]*
 
 **1. Introduction**
 
-Welcome to Notie! Notie ("the App") is a note-taking application developed by [Your Company Name] ("we," "us," or "our"). This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our app.
+Welcome to Notie! Notie ("the App") is a note-taking application developed by [TechValley] ("we," "us," or "our"). This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our app.
 
 **2. Information We Collect**
 
